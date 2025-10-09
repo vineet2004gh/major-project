@@ -1,0 +1,85 @@
+# -----------------
+# Python
+# -----------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+.eggs/
+build/
+dist/
+*.log
+
+# -----------------
+# Virtual Environments
+# -----------------
+venv/
+env/
+.tensorflow_env/
+myenv/
+.conda/
+*.conda/
+*.env
+*.venv
+pip-wheel-metadata/
+
+# -----------------
+# Mac / OS / IDE files
+# -----------------
+.DS_Store
+.AppleDouble
+.LSOverride
+.Trash
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# -----------------
+# Jupyter / Colab
+# -----------------
+.ipynb_checkpoints/
+*.ipynb_save
+
+# -----------------
+# Datasets / Model Artifacts
+# -----------------
+dataset/
+data/
+*.h5
+*.hdf5
+*.ckpt
+*.tflite
+*.onnx
+*.pth
+*.pt
+*.weights
+*.npz
+*.npy
+
+# -----------------
+# Logs / Outputs
+# -----------------
+logs/
+outputs/
+results/
+*.csv
+*.json
+
+# -----------------
+# Environment / Secrets
+# -----------------
+.env
+.env.local
+credentials.json
+apikeys.json
+
+# -----------------
+# Cache
+# -----------------
+__pycache__/
+.cache/
+.pytest_cache/
