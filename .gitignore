@@ -1,0 +1,4 @@
+venv
+*.csv
+yield/dataset/raw_dataset/district/**
+.idea
