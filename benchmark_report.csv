@@ -1,0 +1,65 @@
+query,time_s,stdout,stderr
+What crop gives the highest yield during monsoon in Maharashtra?,29.74892258644104,"âœ… Gemini Client Initialized.
+Enter your question: ðŸ§­ Route chosen: yield (1.139s)
+ðŸ§­ Route: yield
+ðŸŒ¾ State: Maharashtra
+
+ðŸ§  AI Advisor Output:
+ Yield = 1000
+
+ðŸ“Š Trace captured in Phoenix dashboard.
+âœ… OpenTelemetry Tracer Shutdown. Final spans exported.",
+"My wheat leaves have yellow spots, what disease is it?",20.702526092529297,"âœ… Gemini Client Initialized.
+Enter your question: ðŸ§­ Route chosen: disease (1.395s)
+ðŸ§­ Route: disease
+ðŸŒ¾ State: Maharashtra
+
+ðŸ§  AI Advisor Output:
+ disease_classification
+
+ðŸ“Š Trace captured in Phoenix dashboard.
+âœ… OpenTelemetry Tracer Shutdown. Final spans exported.",
+How much yield can I expect if I plant rice this month?,19.044089794158936,"âœ… Gemini Client Initialized.
+Enter your question: ðŸ§­ Route chosen: yield (0.857s)
+ðŸ§­ Route: yield
+ðŸŒ¾ State: Maharashtra
+
+ðŸ§  AI Advisor Output:
+ Yield = 1000
+
+ðŸ“Š Trace captured in Phoenix dashboard.
+âœ… OpenTelemetry Tracer Shutdown. Final spans exported.",
+What fertilizers should I use for better growth of sugarcane?,-1,,Timeout
+Are there any government subsidies for drip irrigation in Punjab?,-1,,Timeout
+How can I prevent fungal infection in my paddy fields?,43.525102376937866,"âœ… Gemini Client Initialized.
+Enter your question: ðŸ§­ Route chosen: disease (0.997s)
+ðŸ§­ Route: disease
+ðŸŒ¾ State: Maharashtra
+
+ðŸ§  AI Advisor Output:
+ disease_classification
+
+ðŸ“Š Trace captured in Phoenix dashboard.
+âœ… OpenTelemetry Tracer Shutdown. Final spans exported.",
+What is the expected rainfall for Kharif season this year?,-1,,Timeout
+What measures can improve maize yield in dry regions?,30.468260288238525,"âœ… Gemini Client Initialized.
+Enter your question: ðŸ§­ Route chosen: yield (1.170s)
+ðŸ§­ Route: yield
+ðŸŒ¾ State: Karnataka
+
+ðŸ§  AI Advisor Output:
+ Yield = 1000
+
+ðŸ“Š Trace captured in Phoenix dashboard.
+âœ… OpenTelemetry Tracer Shutdown. Final spans exported.",
+Is there a pest resistant variety of cotton suitable for Uttar Pradesh?,29.685117959976196,"âœ… Gemini Client Initialized.
+Enter your question: ðŸ§­ Route chosen: disease (1.753s)
+ðŸ§­ Route: disease
+ðŸŒ¾ State: Karnataka
+
+ðŸ§  AI Advisor Output:
+ disease_classification
+
+ðŸ“Š Trace captured in Phoenix dashboard.
+âœ… OpenTelemetry Tracer Shutdown. Final spans exported.",
+Which crops are best suited for sandy soil in Maharashtra?,-1,,Timeout
